@@ -69,7 +69,7 @@ Connection to the Sony PlayStation controller is done via a Sony PlayStation con
 
 | [<img src="images/psx-wiring.jpg" height="512"/>](images/psx-wiring.jpg) |
 |:--|
-| Sony PlayStation connector pinout, from Sony PlayStation side |
+| Sony PlayStation connector pinout, from Sony PlayStation controller side |
 
 | PSX socket pin | Cable color official | Signal       | Comment                                                                   |
 | -------------- | ---------------------| ------------ | ------------------------------------------------------------------------- |
@@ -123,6 +123,8 @@ Those elements' status are processed by the msx-joyplay firmware and transformed
 A simple acrylic enclosure design for the project is provided to protect the electronic components and provide strain relief for the extension cords.
 
 The enclosure uses a 3mm acrylic sheet.
+
+[<img src="images/msx-joyplay-v2-with-acrylic-enclosure.png" width="400"/>](images/msx-joyplay-v2-with-acrylic-enclosure.png)
 
 ## References
 

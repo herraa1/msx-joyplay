@@ -4,6 +4,11 @@
 
 Connect [Sony PlayStation controllers](https://en.wikipedia.org/wiki/PlayStation_(console)#Controllers) to [MSX computers](https://www.msx.org/wiki/).
 
+> [!NOTE]
+>
+> No build instructions are yet provided, but if you are brave enough go for the [recommended build](#recommended-build).
+>
+
 ## Introduction
 
 The msx-joyplay v2 is an adapter that allows connecting Sony PlayStation controllers to [MSX general purpose I/O ports](https://www.msx.org/wiki/General_Purpose_port).

@@ -20,7 +20,7 @@ The main features of the msx-joyplay v2 adapter are:
 
 ## [Hardware](hardware/kicad/)
 
-The msx-joyplay v2 adapter uses an [Atmega328p](https://en.wikipedia.org/wiki/ATmega328) to convert the [Sony PlayStation controller signalling](https://store.curiousinventor.com/guides/PS2) to the [MSX joystick standard signalling](https://www.msx.org/wiki/Joystick_control).
+The msx-joyplay v2 adapter uses an [Atmega328p](https://en.wikipedia.org/wiki/ATmega328) to convert the [Sony PlayStation SPI-like controller signalling](https://store.curiousinventor.com/guides/PS2) to the [MSX joystick standard signalling](https://www.msx.org/wiki/Joystick_control).
 
 A two-sided printed circuit board (PCB) is used to put together all components:
 * An Atmega328p as the main MCU working at +3.3V and clocked at 8MHz

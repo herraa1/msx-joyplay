@@ -23,7 +23,7 @@ The main features of the msx-joyplay v2 adapter are:
 The msx-joyplay v2 adapter uses an [Atmega328p](https://en.wikipedia.org/wiki/ATmega328) to convert the [Sony PlayStation controller signalling](https://store.curiousinventor.com/guides/PS2) to the [MSX joystick standard signalling](https://www.msx.org/wiki/Joystick_control).
 
 A two-sided printed circuit board (PCB) is used to put together all components:
-* An Atmega328p as the main MCU
+* An Atmega328p as the main MCU working at +3.3V and clocked at 8MHz
 * An AMS1117-3.3 regulator to convert the 5V from the joystick port to the 3.3V used for the Atmega328p chip and the PlayStation controller
 * Two 74LS03 quad 2-input NAND gates with open collectors to completely mimic the standard MSX joystick behavior
 * A PTC fuse to minimize damage to the MSX computer in case something goes wrong with the board
